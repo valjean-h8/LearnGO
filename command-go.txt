@@ -1,0 +1,8 @@
+- start script: 
+    go run name_script.go
+
+- create app module:
+    go mod init path_module
+
+- create bin file:
+    go build
